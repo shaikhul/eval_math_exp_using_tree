@@ -1,19 +1,5 @@
-interview_question_1
-====================
-
-Interview Question Q1 2015
-
-Submissions
----------------
-
-1. Publicly: Fork this repo and send us a pull request.
-2. Privately: Send us a tar.gz of your solution **including your .git folder** so we can see your commit history.
-
-
-## Questions 
-
-####Python Programming
-You are given a tree representing a basic mathematical expression, where:
+####Problem definition
+Given a tree representing a basic mathematical expression, where:
 - The number of children extending from any node is greater than or equal to 2.
 - Each node could either be a mathematical operator or a real number. 
 - Each of the leaf nodes should be (no promises :-)) a real number - Hint : Handle error here....
